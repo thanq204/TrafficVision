@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Env
+venv/
+.env/
+
+# Data (QUAN TRỌNG)
+data/
+!data/.gitkeep
+
+*.mp4
+*.avi
+output.avi
+
+# Output
+output.avi
+
+# IDE
+.vscode/
+.idea/
