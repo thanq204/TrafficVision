@@ -1,0 +1,15 @@
+{
+  "source": "data/east.mp4",
+  "weights": "yolov8n-seg.pt",
+  "output": "data\\portfolio.avi",
+  "frames": 240,
+  "fps": 20.0,
+  "width": 768,
+  "height": 432,
+  "lines_px": [
+    302,
+    388
+  ],
+  "up": 2,
+  "down": 4
+}
